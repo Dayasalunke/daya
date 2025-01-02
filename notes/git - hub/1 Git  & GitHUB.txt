@@ -1,0 +1,24 @@
+GIT & GITHUB 
+GIT : GIT is a distributed version control system used to manage versions. 
+     It is developed and maintained by oracle
+
+       Step to install
+        1. go to google and type "git for window"
+        2. go to downloads -git -->  64 bit window setup
+        3.
+        4.check 
+
+
+
+
+
+
+
+   open vs code ---> terminal ---> new terminal
+
+       1. git inti
+       2. git add.
+       3. git commit -m "message"
+ But for first time
+        git config  --global user.name "your userName"
+        git config  --

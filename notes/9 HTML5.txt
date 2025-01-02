@@ -1,0 +1,22 @@
+HTML 5 is the latest version of html with advanced features such as :
+
+    i. Semantic elements: Semantic elements are introduced in html5.
+       They help to make code or readable and SEO friendly
+
+       Eg: header,main,footer,nav,article,section,etc...,
+
+   ii. media elements: media elements are used to show media in more simple and easy way
+       Eg: video,audio,picture,iframe etc..,
+
+  iii. svg: Scalable vector graphics are used to includes drawing into HTML
+
+       Canvas : Canvas  provides an empty container to js for 2nd and 3rd visuals.
+
+  iv. details and summary : it is used to support simple html accordin.
+   
+     <details>
+     <summary>HTML </summary>
+     Hyper Text Markup Language
+     </details>
+
+  v. drag and drop: HTML elements can also be dragged and dropped anywhere.    (code pen Website)

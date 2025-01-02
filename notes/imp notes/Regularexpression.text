@@ -1,0 +1,16 @@
+Regular expression are used to check patterns:
+
+---> pattern : 'abc'
+---> grouping pattern : [A-Z]
+---> limitations : [A-Z]{4}  [A-Za-z]{3}  [0-9]{10}
+----> [A-Za-z0-9@#_-]{6,} password
+----> >+ -- 0 ore more occuurence eg: a+-->
+ b,ab,aab,aaab
+---> *--1 ore more occurence e.g : a*b -->
+     ab,aab,aaab
+---> \w --world , -- one world
+     \c - 1 character 
+     \d - 1 digits
+     ^ - starting
+     $ - symbol
+     \. 
